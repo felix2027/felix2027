@@ -1,24 +1,10 @@
 ## Hi there 👋
 
-<!--
-**felix2027/felix2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄️ My name is Felix, thanks for visiting my page.
 
+🙏🏻 I am a student with a strong passion for programming.
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-😄️ My name is Felix, thanks for your visit.
-
-🙏🏻 I am a normal student and want to be a good programmer.
-
-😩️ My programming level is very average, but I want to be a person who is good at programming like you.
+🤔 While my current programming skills are still developing, I am committed to learning and improving every day to become a proficient programmer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix2027&layout=compact)
 
