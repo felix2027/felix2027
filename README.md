@@ -20,6 +20,6 @@
 
 😩️ My programming level is very average, but I want to be a person who is good at programming like you.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix2027)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix2027&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix2027)](https://github.com/anuraghazra/github-readme-stats)
